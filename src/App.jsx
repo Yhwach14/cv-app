@@ -1,6 +1,6 @@
-import Education from './components/education.jsx';
-import Experience from './components/experience.jsx';
-import Info from './components/info.jsx';
+import Education from './components/Education.jsx';
+import Experience from './components/Experience.jsx';
+import Info from './components/Info.jsx';
 import './styles/main.css';
 
 export default function App() {
